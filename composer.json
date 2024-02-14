@@ -4,7 +4,7 @@
   "description": "array helper module",
   "autoload": {
     "psr-4": {
-      "Devgobankiros\\OcpHw": "src/"
+      "Devgobankiros\\OcpHw\\": "src/"
     }
   },
   "require": {
