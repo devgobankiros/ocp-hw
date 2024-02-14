@@ -1,0 +1,13 @@
+{
+  "name": "devgobankiros/ocp-hw",
+  "type": "library",
+  "description": "array helper module",
+  "autoload": {
+    "psr-4": {
+      "Devgobankiros\\OcpHw": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
